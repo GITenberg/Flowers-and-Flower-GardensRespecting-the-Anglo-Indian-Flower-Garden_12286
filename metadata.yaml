@@ -1,0 +1,30 @@
+_repo: Flowers-and-Flower-GardensRespecting-the-Anglo-Indian-Flower-Garden_12286
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richardson, David Lester
+    birthdate: 1801
+    deathdate: 1865
+    gutenberg_agent_id: '4295'
+    url: http://www.gutenberg.org/2009/agents/4295
+description: ''
+gutenberg_bookshelf: Horticulture
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gardening'
+- !lcsh 'Flowers -- Poetry'
+- !lcc 'QK'
+- GITenberg
+title: 'Flowers and Flower-Gardens
+
+  With an Appendix of Practical Instructions and Useful Information
+
+  Respecting the Anglo-Indian Flower-Garden'
+url: http://www.gutenberg.org/ebooks/12286
