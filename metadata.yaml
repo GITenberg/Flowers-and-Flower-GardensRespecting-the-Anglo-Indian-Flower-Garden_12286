@@ -1,5 +1,8 @@
 _repo: Flowers-and-Flower-GardensRespecting-the-Anglo-Indian-Flower-Garden_12286
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Richardson, David Lester
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '4295'
     url: http://www.gutenberg.org/2009/agents/4295
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12286#Flowers-and-Flower-GardensRespecting-the-Anglo-Indian-Flower-Garden
 gutenberg_bookshelf: Horticulture
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
